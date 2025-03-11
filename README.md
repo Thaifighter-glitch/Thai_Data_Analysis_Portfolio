@@ -7,7 +7,7 @@ Welcome to my portfolio! Here are some of my data analytics projects using SQL, 
 ### 🔹 [Joshua Tree Analysis](./project-1_Joshua_Tree/)
 **Tools:** Python  
 **Summary:** Cleaned difficulty ratings to make them easier to quantify and created tables and graphs to display data.  
-🔗 [View Project](./project-1_Joshua_Tree/readme.md)  
+📊 [View Project](./project-1_Joshua_Tree/readme.md)  
 
 ### 🔹 [Business Analysis](./project-2_midterm/)
 **Tools:** Python, Excel, SQL  
