@@ -4,6 +4,11 @@ Welcome to my portfolio! Here are some of my data analytics projects using SQL, 
 
 ## 🚀 Featured Projects
 
+### 🔹 **ER Visits & Wait Time Dashboard** 
+**Tools:** Tableau  
+**Summary:** Created an interactive Tableau dashboard visualizing ER usage trends by hour, day, department, and demographic patterns. Includes parameter-based filtering and dynamic charts.  
+📊 [View Project](https://public.tableau.com/app/profile/chris.thai/viz/DashboardER/MeetingTargetWaitTimebyRace)
+
 ### 🔹 [Joshua Tree Analysis](./project-1_Joshua_Tree/)
 **Tools:** Python  
 **Summary:** Cleaned difficulty ratings to make them easier to quantify and created tables and graphs to display data.  
