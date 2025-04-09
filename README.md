@@ -31,3 +31,4 @@ Welcome to my portfolio! Here are some of my data analytics projects using SQL, 
 
 ## 📞 Contact
 Feel free to connect with me via email at **Christopher.Thai.84@gmail.com**
+🔗 [View my Tableau Public profile](https://public.tableau.com/app/profile/chris.thai)
