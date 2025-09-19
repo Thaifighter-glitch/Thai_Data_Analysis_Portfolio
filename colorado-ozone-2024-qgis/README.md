@@ -47,9 +47,6 @@ Includes publication-ready maps, a custom standalone legend, and an animated tim
 **Statewide Map**  
 ![Colorado Ozone Statewide](exports/maps/ozone_2024_statewide.png)
 
-**Front Range Map**  
-![Colorado Ozone Front Range](exports/maps/ozone_2024_front_range.png)
-
 **Legend**  
 ![Ozone Legend](exports/legend/ozone_legend.png)
 
