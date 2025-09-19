@@ -50,5 +50,5 @@ AQI-style breaks used:
 - Maps: CC BY 4.0  
 
 ## 🙌 Credits
-- Data courtesy of _your source_.
+- Data courtesy of Natural Earth and drcog
 - Built with QGIS.
