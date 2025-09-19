@@ -1,54 +1,75 @@
-# Colorado Ozone Mapping (QGIS) — 2024
+# Colorado Ozone Mapping (QGIS, 2024)
 
-A QGIS cartography mini-project visualizing Colorado ozone levels for 2024.  
-Includes printable map layouts, a legend, and an animated GIF.
+Cartographic analysis of ozone levels across Colorado in 2024 using QGIS.  
+Includes publication-ready maps, a custom standalone legend, and an animated timelapse GIF.
+
+---
 
 ## ✨ Highlights
-- Clean, publication-ready map exports (PNG)
-- Legend styled to match EPA AQI categories (Good, Moderate, USG, etc.)
-- Optional time-lapse GIF to show changes across scenes/regions
+- Clean, exportable maps styled with **EPA AQI categories**
+- Custom legend exported separately for flexible use in reports
+- Animated timelapse GIF to visualize ozone distribution across regions
+- Reproducible QGIS project file (`.qgz`)
 
-## 🗂 Repo Contents
-qgis/ # QGIS project + styles
-data/ # small, shareable data only (no large raws)
-exports/
-maps/ # final PNG maps
-legend/ # exported legend PNG
-animation/ # timelapse GIF
-docs/screenshots/ # QGIS UI screenshots
+---
 
 ## 📊 Data
-- **Source:** Colorado ozone monitor readings (2024).  
-- **Processing:** Cleaned and aggregated in QGIS; binned to AQI-style categories.
+- **Source:** Colorado Air Pollution Control Division (APCD) ozone monitoring network, 2024  
+  _(data available via [EPA AQS DataMart](https://www.epa.gov/aqs))_  
+- **Processing:** Cleaned and categorized in QGIS according to AQI thresholds:
+  - Good
+  - Moderate
+  - USG (Unhealthy for Sensitive Groups)
+  - Unhealthy
+  - Very Unhealthy
+  - Hazardous
 
-## 🗺 Method (QGIS)
-1. Load station points / polygons.
-2. Style with categorized renderer using ozone/AQI bins.
-3. Design Layout(s): title, subtitle, scale bar, north arrow, attribution.
-4. Export:
-   - **Maps** → `exports/maps/*.png`
-   - **Legend** (Layout → Add Item → Legend, or export legend as separate PNG)
-   - **Timelapse GIF** from your sequence of map PNGs.
+> Only small/processed data is included in this repo. Raw/full datasets are not committed.
 
-> Note: I removed the layer title (“colorado_ozone_2024trim”) from the legend for a cleaner look and exported a standalone legend image.
+---
 
-## 🎨 Symbology
-AQI-style breaks used:
-- Good, Moderate, **USG** (Unhealthy for Sensitive Groups), Unhealthy, Very Unhealthy, Hazardous  
+## 🗺 Method
+1. Imported ozone station data into QGIS.
+2. Applied categorized renderer with AQI breakpoints and color scheme.
+3. Designed map layouts with:
+   - Title, subtitle, scale bar, and north arrow
+   - Legend (exported separately for clarity)
+   - Attribution text
+4. Exported outputs:
+   - **Maps** → PNGs
+   - **Legend** → PNG
+   - **Animation** → GIF from sequential map exports
 
-## 🔁 Reproduce
-- Open `qgis/colorado_ozone_2024.qgz` in QGIS ≥ 3.28.
+---
 
 ## 📦 Outputs
-- `exports/maps/ozone_2024_statewide.png`
-- `exports/maps/ozone_2024_front_range.png`
-- `exports/legend/ozone_legend.png`
-- `exports/animation/ozone_timelapse.gif`
+
+**Statewide Map**  
+![Colorado Ozone Statewide](exports/maps/ozone_2024_statewide.png)
+
+**Front Range Map**  
+![Colorado Ozone Front Range](exports/maps/ozone_2024_front_range.png)
+
+**Legend**  
+![Ozone Legend](exports/legend/ozone_legend.png)
+
+**Timelapse GIF**  
+![Ozone Timelapse](exports/animation/ozone_timelapse.gif)
+
+---
+
+## 🔁 Reproduce
+- Open `qgis/colorado_ozone_2024.qgz` in QGIS ≥ 3.28.  
+- If layer paths break, reset them: **Right-click layer → Set Data Source → point to local file.**
+
+---
 
 ## 📜 License
-- Code/config: MIT
-- Maps: CC BY 4.0  
+- Code & configs: MIT  
+- Maps & visuals: CC BY 4.0  
+
+---
 
 ## 🙌 Credits
-- Data courtesy of Natural Earth and drcog
-- Built with QGIS.
+- Data courtesy of **Colorado APCD** & **EPA AQS**.  
+- Built using **QGIS 3.28**.
