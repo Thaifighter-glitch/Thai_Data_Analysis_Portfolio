@@ -30,9 +30,9 @@ Welcome to my portfolio! Here are some of my data analytics projects using SQL, 
 📊 [View Project](./project-4_AI_Crypto_Trading_Bot_Training/readme.md)  
 
 ### 🔹 [Colorado Ozone Mapping](./project-5_colorado_ozone_2024_qgis/)
-**Tools:** QGIS  
-**Summary:** Mapped 2024 ozone levels across Colorado using AQI categories. Produced publication-ready maps, a standalone legend, and an animated timelapse GIF.  
-📊 [View Project](./project-5_colorado_ozone_2024_qgis/README.md)
+**Tools:** QGIS, Tableau  
+**Summary:** Mapped 2024 ozone levels across Colorado using AQI categories. Produced publication-ready maps, a standalone legend, an animated timelapse GIF, and an interactive Tableau dashboard.  
+📊 [View Project](./project-5_colorado_ozone_2024_qgis/README.md) | 🌐 [View Tableau](https://public.tableau.com/app/profile/chris.thai/viz/Colorado2024OzoneLevels/COOzoneAQIValues2024)
 
 ![Colorado Ozone Map Thumbnail](project-5_colorado_ozone_2024_qgis/Colorado%20Air%20Pollution0185.png)
 
