@@ -1,7 +1,7 @@
 # Colorado Ozone Mapping (QGIS, 2024)
 
 Cartographic analysis of ozone levels across Colorado in 2024 using QGIS.  
-Includes publication-ready maps, a custom standalone legend, and an animated timelapse GIF.
+Includes publication-ready maps, a custom standalone legend, an animated timelapse GIF, and a Tableau interactive dashboard.
 
 ---
 
@@ -9,6 +9,7 @@ Includes publication-ready maps, a custom standalone legend, and an animated tim
 - Clean, exportable maps styled with **EPA AQI categories**
 - Custom legend exported separately for flexible use in reports
 - Animated timelapse GIF to visualize ozone distribution across regions
+- Interactive **Tableau dashboard** version for web-based exploration
 - Reproducible QGIS project file (`.qgz`) — not included yet
 
 ---
@@ -39,6 +40,12 @@ Open the QGIS project (`.qgz`) and re-point data sources if paths break
 
 ---
 
+## 🌐 Tableau Interactive Version
+For an interactive web-based version of this map, view it on Tableau Public:  
+📊 [Colorado 2024 Ozone Levels (Tableau)](https://public.tableau.com/app/profile/chris.thai/viz/Colorado2024OzoneLevels/COOzoneAQIValues2024)
+
+---
+
 ## 📜 License
 - Code & configs: MIT  
 - Maps & visuals: CC BY 4.0  
@@ -46,4 +53,4 @@ Open the QGIS project (`.qgz`) and re-point data sources if paths break
 ---
 
 ## 🙌 Credits
-Data courtesy of **Colorado APCD** & **EPA AQS**. Built with **QGIS 3.28**.
+Data courtesy of **Colorado APCD** & **EPA AQS**. Built with **QGIS 3.28** and **Tableau**.
