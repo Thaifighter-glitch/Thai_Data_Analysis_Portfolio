@@ -45,13 +45,13 @@ Includes publication-ready maps, a custom standalone legend, and an animated tim
 ## 📦 Outputs
 
 **Statewide Map**  
-![Colorado Ozone Statewide](exports/maps/ozone_2024_statewide.png)
+![Colorado Ozone Statewide](Colorado%20Air%20Pollution0185.png)
 
 **Legend**  
-![Ozone Legend](exports/legend/ozone_legend.png)
+![Ozone Legend](Ozone%20Legend.png)
 
 **Timelapse GIF**  
-![Ozone Timelapse](exports/animation/ozone_timelapse.gif)
+![Ozone Timelapse](Colorado_Ozone_2024.gif)
 
 ---
 
