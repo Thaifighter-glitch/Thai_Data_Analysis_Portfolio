@@ -36,7 +36,7 @@ Welcome to my portfolio! Here are some of my data analytics projects using SQL, 
 
 ![Colorado Ozone Map Thumbnail](project-5_colorado_ozone_2024_qgis/Colorado%20Air%20Pollution0185.png)
 
-### 🍂 [Colorado Leaf Peeping](./Colorado_Leaf_Peeping/)
+### 🍂 [Colorado Leaf Peeping](./project-6_Leaf_Peeping_2025)
 
 **Tools:** QGIS, Tableau  
 **Summary:** Predicted and visualized Colorado’s fall foliage progression (“leaf peeping”) in 2025 using aspen distribution and elevation data.  
