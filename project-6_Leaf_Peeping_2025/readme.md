@@ -8,7 +8,10 @@ This project explores those patterns with:
 - **QGIS maps** – static and animated raster layers by week
 - **Tableau dashboard** – interactive version for exploration
 
----
+## Data & Methods (brief)
+- **Inputs:** Aspen distribution (vector), elevation bands (raster/lookup), week index.
+- **Approach:** Map week → elevation band; classify with rule-based symbology; export static + animated maps.
+- **Assumptions:** 2025 timing driven primarily by elevation; latitude/aspect not modeled in this first pass.
 
 ## QGIS Maps
 - **Static Map**:  
