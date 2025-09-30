@@ -23,7 +23,7 @@ This project explores those patterns with:
 
 ## Tableau Dashboard
 Interactive dashboard for exploring week-by-week aspen foliage coverage.  
-🔗 [View on Tableau Public]([https://public.tableau.com/app/profile/your_link_here](https://public.tableau.com/shared/BG65R37WJ?:display_count=n&:origin=viz_share_link))
+🔗 [View on Tableau Public](https://public.tableau.com/app/profile/chris.thai/viz/shared/3WCD23C5R)
 
 **Key Skills:** Data cleaning, calculated fields, interactive filters, joins, page view, alternate visualization.
 
