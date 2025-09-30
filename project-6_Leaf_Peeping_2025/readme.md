@@ -12,10 +12,10 @@ This project explores those patterns with:
 
 ## QGIS Maps
 - **Static Map**:  
-  ![Static Leaf Peeping Map](outputs/leaf_peeping_map.png)
+  ![Static Leaf Peeping Map](/leaf_peeping_map.png)
 
 - **Animated Map** (GIF by week):  
-  ![Animated Leaf Peeping Map](outputs/leaf_peeping_map.gif)
+  ![Animated Leaf Peeping Map](/leaf_peeping_map.gif)
 
 **Key Skills:** Raster band classification, cross-join lookup tables, rule-based symbology, QGIS animation.
 
@@ -24,8 +24,6 @@ This project explores those patterns with:
 ## Tableau Dashboard
 Interactive dashboard for exploring week-by-week aspen foliage coverage.  
 🔗 [View on Tableau Public]([https://public.tableau.com/app/profile/your_link_here](https://public.tableau.com/shared/BG65R37WJ?:display_count=n&:origin=viz_share_link))
-
-![Tableau Screenshot](outputs/tableau_screenshot.png)
 
 **Key Skills:** Data cleaning, calculated fields, interactive filters, joins, page view, alternate visualization.
 
