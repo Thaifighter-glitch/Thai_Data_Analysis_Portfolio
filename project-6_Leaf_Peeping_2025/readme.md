@@ -12,10 +12,10 @@ This project explores those patterns with:
 
 ## QGIS Maps
 - **Static Map**:  
-  ![Static Leaf Peeping Map](/leaf_peeping_map.png)
+  ![Static Leaf Peeping Map](leaf_peeping_map.png)
 
 - **Animated Map** (GIF by week):  
-  ![Animated Leaf Peeping Map](/leaf_peeping_map.gif)
+  ![Animated Leaf Peeping Map](leaf_peeping_map.gif)
 
 **Key Skills:** Raster band classification, cross-join lookup tables, rule-based symbology, QGIS animation.
 
