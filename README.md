@@ -42,9 +42,9 @@ Welcome to my portfolio! Here are some of my data analytics projects using SQL, 
 **Summary:** Predicted and visualized Colorado’s fall foliage progression (“leaf peeping”) in 2025 using aspen distribution and elevation data.  
 As a first run, it ignores other variables such as latitude or aspect in affecting leaf color. Produced static maps, an animated timelapse GIF, and an interactive Tableau dashboard.
 
-📊 [View Project](./Colorado_Leaf_Peeping/README.md) | 🌐 [View Tableau](https://public.tableau.com/shared/3WCD23C5R?:display_count=n&:origin=viz_share_link)
+📊 [View Project](./project-6_Leaf_Peeping_2025/README.md) | 🌐 [View Tableau](https://public.tableau.com/shared/3WCD23C5R?:display_count=n&:origin=viz_share_link)
 
-![Colorado Leaf Peeping Thumbnail](Colorado_Leaf_Peeping/outputs/leaf_peeping_map.png)
+![Colorado Leaf Peeping Thumbnail](project-6_Leaf_Peeping_2025/outputs/leaf_peeping_map.png)
 
 
 ## 📞 Contact
