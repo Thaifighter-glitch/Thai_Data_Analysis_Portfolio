@@ -44,7 +44,7 @@ As a first run, it ignores other variables such as latitude or aspect in affecti
 
 📊 [View Project](./project-6_Leaf_Peeping_2025/README.md) | 🌐 [View Tableau](https://public.tableau.com/app/profile/chris.thai/viz/shared/3WCD23C5R)
 
-![Colorado Leaf Peeping Thumbnail](project-6_Leaf_Peeping_2025/outputs/leaf_peeping_map.png)
+![Colorado Leaf Peeping Thumbnail](project-6_Leaf_Peeping_2025/leaf_peeping_map.png)
 
 
 ## 📞 Contact
