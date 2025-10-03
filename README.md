@@ -4,31 +4,6 @@ Welcome to my portfolio! Here are some of my data analytics projects using SQL, 
 
 ## 🚀 Featured Projects
 
-### 🔹 **ER Visits & Wait Time Dashboard** 
-**Tools:** Tableau  
-**Summary:** Created an interactive Tableau dashboard visualizing ER usage trends by hour, day, department, and demographic patterns. Includes parameter-based filtering and dynamic charts.  
-📊 [View Project](https://public.tableau.com/views/DashboardER/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-### 🔹 [Joshua Tree Analysis](./project-1_Joshua_Tree/)
-**Tools:** Python  
-**Summary:** Cleaned difficulty ratings to make them easier to quantify and created tables and graphs to display data.  
-📊 [View Project](./project-1_Joshua_Tree/readme.md)  
-
-### 🔹 [Business Analysis](./project-2_midterm/)
-**Tools:** Python, Excel, SQL  
-**Summary:** Cleaned and explored business data, providing actionable insights for an imaginary company.  
-📊 [View Project](./project-2_midterm/readme.md)  
-
-### 🔹 [Social Media Analysis](./project-3_final_project/)
-**Tools:** Python, Tableau  
-**Summary:** Analyzed social media data for an Asian community organization in Denver to find optimal posting types.  
-📊 [View Project](./project-3_final_project/readme.md)  
-
-### 🔹 [AI Crypto Trading Bot Training](./project-4_AI_Crypto_Trading_Bot_Training/)
-**Tools:** Python, Birdeye API, ChatGPT  
-**Summary:** Training a model for crypto trading (work in progress).  
-📊 [View Project](./project-4_AI_Crypto_Trading_Bot_Training/readme.md)  
-
 ### 🔹 [Colorado Ozone Mapping](./project-5_colorado_ozone_2024_qgis/)
 **Tools:** QGIS, Tableau  
 **Summary:** Mapped 2024 ozone levels across Colorado using AQI categories. Produced publication-ready maps, a standalone legend, an animated timelapse GIF, and an interactive Tableau dashboard.  
@@ -55,6 +30,32 @@ As a first run, it ignores other variables such as latitude or aspect in affecti
 - Data prep included unpivoting wide activity tables and joining with GIS shapefiles  
 
 📊 [View Project](./project-7_Colorado_State_Parks_Activities_Map/README.md) | 🌐 [View Tableau](https://public.tableau.com/shared/6T2XNWRG3?:display_count=n&:origin=viz_share_link)
+
+### 🔹 **ER Visits & Wait Time Dashboard** 
+**Tools:** Tableau  
+**Summary:** Created an interactive Tableau dashboard visualizing ER usage trends by hour, day, department, and demographic patterns. Includes parameter-based filtering and dynamic charts.  
+📊 [View Project](https://public.tableau.com/views/DashboardER/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+### 🔹 [Joshua Tree Analysis](./project-1_Joshua_Tree/)
+**Tools:** Python  
+**Summary:** Cleaned difficulty ratings to make them easier to quantify and created tables and graphs to display data.  
+📊 [View Project](./project-1_Joshua_Tree/readme.md)  
+
+### 🔹 [Business Analysis](./project-2_midterm/)
+**Tools:** Python, Excel, SQL  
+**Summary:** Cleaned and explored business data, providing actionable insights for an imaginary company.  
+📊 [View Project](./project-2_midterm/readme.md)  
+
+### 🔹 [Social Media Analysis](./project-3_final_project/)
+**Tools:** Python, Tableau  
+**Summary:** Analyzed social media data for an Asian community organization in Denver to find optimal posting types.  
+📊 [View Project](./project-3_final_project/readme.md)  
+
+### 🔹 [AI Crypto Trading Bot Training](./project-4_AI_Crypto_Trading_Bot_Training/)
+**Tools:** Python, Birdeye API, ChatGPT  
+**Summary:** Training a model for crypto trading (work in progress).  
+📊 [View Project](./project-4_AI_Crypto_Trading_Bot_Training/readme.md)  
+
 
 
 
