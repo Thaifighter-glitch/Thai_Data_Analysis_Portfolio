@@ -50,4 +50,4 @@ It allows users to filter by activity type, explore parks interactively, and cli
 ---
 
 ## Screenshot
-![Dashboard Screenshot](images/dashboard_preview.png)
+![Dashboard Screenshot](./dashboard_preview.png)
