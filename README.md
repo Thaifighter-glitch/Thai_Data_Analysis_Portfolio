@@ -4,6 +4,15 @@ Welcome to my portfolio! Here are some of my data analytics projects using SQL, 
 
 ## 🚀 Featured Projects
 
+### 🗺️ [Colorado State Parks Activities Map](./project-7_Colorado_State_Parks_Activities_Map/)
+
+**Tools:** QGIS, Tableau  
+**Summary:** Built an interactive dashboard mapping all Colorado State Parks and their available activities.  
+- Filter parks by 47 activity types  
+- Pins and tooltips display park name, number of activities, and direct CPW website link  
+- Data prep included unpivoting wide activity tables and joining with GIS shapefiles  
+📊 [View Project](./project-7_Colorado_State_Parks_Activities_Map/README.md) | 🌐 [View Tableau](https://public.tableau.com/shared/6T2XNWRG3?:display_count=n&:origin=viz_share_link)
+
 ### 🔹 [Colorado Ozone Mapping](./project-5_colorado_ozone_2024_qgis/)
 **Tools:** QGIS, Tableau  
 **Summary:** Mapped 2024 ozone levels across Colorado using AQI categories. Produced publication-ready maps, a standalone legend, an animated timelapse GIF, and an interactive Tableau dashboard.  
@@ -16,20 +25,9 @@ Welcome to my portfolio! Here are some of my data analytics projects using SQL, 
 **Tools:** QGIS, Tableau  
 **Summary:** Predicted and visualized Colorado’s fall foliage progression (“leaf peeping”) in 2025 using aspen distribution and elevation data.  
 As a first run, it ignores other variables such as latitude or aspect in affecting leaf color. Produced static maps, an animated timelapse GIF, and an interactive Tableau dashboard.
-
 📊 [View Project](./project-6_Leaf_Peeping_2025/readme.md) | 🌐 [View Tableau](https://public.tableau.com/app/profile/chris.thai/viz/shared/3WCD23C5R)
 
 ![Colorado Leaf Peeping Thumbnail](project-6_Leaf_Peeping_2025/leaf_peeping_map.png)
-
-### 🗺️ [Colorado State Parks Activities Map](./project-7_Colorado_State_Parks_Activities_Map/)
-
-**Tools:** QGIS, Tableau  
-**Summary:** Built an interactive dashboard mapping all Colorado State Parks and their available activities.  
-- Filter parks by 47 activity types  
-- Pins and tooltips display park name, number of activities, and direct CPW website link  
-- Data prep included unpivoting wide activity tables and joining with GIS shapefiles  
-
-📊 [View Project](./project-7_Colorado_State_Parks_Activities_Map/README.md) | 🌐 [View Tableau](https://public.tableau.com/shared/6T2XNWRG3?:display_count=n&:origin=viz_share_link)
 
 ### 🔹 **ER Visits & Wait Time Dashboard** 
 **Tools:** Tableau  
@@ -55,8 +53,6 @@ As a first run, it ignores other variables such as latitude or aspect in affecti
 **Tools:** Python, Birdeye API, ChatGPT  
 **Summary:** Training a model for crypto trading (work in progress).  
 📊 [View Project](./project-4_AI_Crypto_Trading_Bot_Training/readme.md)  
-
-
 
 
 ## 📞 Contact
