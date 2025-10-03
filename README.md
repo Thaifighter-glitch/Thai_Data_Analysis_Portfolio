@@ -46,6 +46,17 @@ As a first run, it ignores other variables such as latitude or aspect in affecti
 
 ![Colorado Leaf Peeping Thumbnail](project-6_Leaf_Peeping_2025/leaf_peeping_map.png)
 
+### 🗺️ [Colorado State Parks Activities Map](./project-7_Colorado_State_Parks_Activities_Map/)
+
+**Tools:** QGIS, Tableau  
+**Summary:** Built an interactive dashboard mapping all Colorado State Parks and their available activities.  
+- Filter parks by 47 activity types  
+- Pins and tooltips display park name, number of activities, and direct CPW website link  
+- Data prep included unpivoting wide activity tables and joining with GIS shapefiles  
+
+📊 [View Project](./project-7_Colorado_State_Parks_Activities_Map/README.md) | 🌐 [View Tableau](https://public.tableau.com/shared/6T2XNWRG3?:display_count=n&:origin=viz_share_link)
+
+
 
 ## 📞 Contact
 Feel free to connect with me via email at **Christopher.Thai.84@gmail.com**
